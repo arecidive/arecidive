@@ -1,5 +1,5 @@
 <div align="center">
-  <b>I am a Python Backend developer, I have an interest in artificial intelligence development and Telegram bots. Additionally, I am currently a student at Saint Petersburg Polytechnic University, pursuing a degree in Information Systems and Technologies. 👨‍💻</b>
+  <b>I am a Python Backend developer with experience in Telegram bot development, and a strong interest in artificial intelligence. Additionally, I am currently a student at Saint Petersburg Polytechnic University, pursuing a degree in Information Systems and Technologies. 👨‍💻</b>
 </p>
     
 <div align="center">
